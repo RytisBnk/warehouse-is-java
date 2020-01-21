@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "settings",
+      "type": "is.warehouse.configuration.ApplicationProperties",
+      "sourceType": "is.warehouse.configuration.ApplicationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "settings.date-format",
+      "type": "java.lang.String",
+      "sourceType": "is.warehouse.configuration.ApplicationProperties"
+    },
+    {
+      "name": "settings.filepath",
+      "type": "java.lang.String",
+      "sourceType": "is.warehouse.configuration.ApplicationProperties"
+    }
+  ],
+  "hints": []
+}

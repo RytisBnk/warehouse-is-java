@@ -1,0 +1,11 @@
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/service/impl/ProductServiceImpl.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/UI/ApplicationMenu.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/repository/impl/CSVProductRepository.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/model/Product.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/model/utils/LocalDateConverter.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/configuration/ApplicationProperties.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/repository/ProductRepository.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/model/utils/ProductCompositeKey.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/UI/impl/ConsoleMenu.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/service/ProductService.java
+/Users/rytis/Desktop/warehouse/src/main/java/is/warehouse/WarehouseApplication.java
